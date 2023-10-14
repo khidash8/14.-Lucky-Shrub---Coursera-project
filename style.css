@@ -8,7 +8,7 @@
 }
 body {
   font-family: "poppins", sans-serif;
-  margin-top: 4rem;
+  margin-top: 2rem;
   scroll-behavior: smooth;
 }
 a {
@@ -36,7 +36,7 @@ li {
   margin-top: 0.3rem;
   margin-bottom: 2rem;
   overflow: hidden;
-  position: fixed;
+  position: sticky;
   top: 0%;
   box-shadow: 0.1rem 0.1rem 1rem rgb(182, 143, 143);
 }
